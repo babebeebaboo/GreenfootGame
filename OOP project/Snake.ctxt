@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\n\ Write\ a\ description\ of\ class\ Snake\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=boolean\ newsnake()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addBird()
+comment4.params=
+comment4.target=void\ addMushroom()
+comment5.params=
+comment5.target=int\ whenAddSnake()
+comment6.params=
+comment6.target=void\ add()
+comment7.params=
+comment7.target=void\ strikeBullet()
+comment8.params=
+comment8.target=void\ jump()
+numComments=9
